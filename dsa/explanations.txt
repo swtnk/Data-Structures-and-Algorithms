@@ -1,0 +1,29 @@
+---------------- Question 1 ----------------
+Complexity: O(n)
+Data structure used: Default Dictionary
+I have used Default Dictionary to avoid error raised during
+searching for non-existing item and also to fetch data in O(n).
+
+---------------- Question 2 ----------------
+Complexity: O(n*n)
+Data structure used: I have used string so that I can use
+the concept of string slicing to generate and test.
+
+---------------- Question 3 ----------------
+Complexity: O(n)
+Data structure used: Default Dictionary to make graph which could
+help fetching the nodes with complexy of O(n). I have also used lis
+to store the resultant of minimum spanning tree.
+
+---------------- Question 4 ----------------
+Complexity: O(n*n)
+Data structure used: list, tree
+I have used the concept of tree using reference
+variables to create the binary search tree and list to keep track of
+nodes.
+
+---------------- Question 5 ----------------
+Complexity: O(n)
+Data structure used: Linked list, list
+I have used list to generate and populate the linked list, and as mentioned
+in question we have to return the nth element from ending I have created a linked list.
